@@ -206,5 +206,5 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-media/bookmarks/cert.key
-bookmarks/cert.crt
+bookmarks/cert.key
+bookmarks/media/
